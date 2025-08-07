@@ -1,5 +1,8 @@
 AI Algorithms : 
 
+Tools Used
+- Matplotlib, Networkx
+
 1. **Graph Search Algorithms**
    - **Breadth-First Search (BFS):** Traverses the graph layer by layer.
    - **Depth-First Search (DFS):** Explores as far as possible along each branch.
@@ -24,5 +27,4 @@ AI Algorithms :
    - Implements fitness evaluation, mutation, and crossover to evolve solutions.
    - Demonstrates solving problems like the 8-queens puzzle with genetic operators.
 
-Each algorithm is implemented as Python functions with examples and corresponding outputs. 
-The notebook also visualizes graphs using matplotlib and networkx.
+
